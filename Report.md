@@ -16,8 +16,7 @@ Parameters used in DQN algorithm:
 - Epsilion decay rate: 0.995
 
 ## Results
-
-![results](images/p1-Result.png)
+<img src="Images/p1-Result.PNG" width="300" height="300" >
 
 ```
 Episode 100	Average Score: 1.01
