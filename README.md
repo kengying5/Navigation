@@ -6,8 +6,6 @@ This project repository contains my work for the Udacity's [Deep Reinforcement L
 
 In this project, **the goal is to train an agent to navigate a virtual world and collect as many yellow bananas as possible while avoiding blue bananas**
 
-![In Project 1, train an agent to navigate a large world.]
-
 
 ### About Deep Reinforcement Learning
 
